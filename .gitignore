@@ -74,3 +74,10 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MotionShooter/Saved/Logs/AutoSDKInfo.json
+MotionShooter/Intermediate/Build/XmlConfigCache.bin
+MotionShooter/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0.ref
+MotionShooter/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_804CE43E4A80524BE74F0EBC64AA3182.bin
+MotionShooter/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_A7B6F7A54ED991695703AFA31DD6D684.bin
+MotionShooter/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0.ref
+MotionShooter/Saved/AutoScreenshot.png
+MotionShooter/Intermediate/CachedAssetRegistryDiscovery.bin
